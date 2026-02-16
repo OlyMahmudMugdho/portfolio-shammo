@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-sidebar: #212121;
+  --color-sidebar-light: #2d2d2d;
+  --spacing-sidebar: 280px;
+  --font-roboto: "Roboto", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-roboto);
+  color: #333;
+  background-color: #fcfcfc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-roboto);
+  letter-spacing: -0.02em;
+}
+
+@layer utilities {
+  .sharp-corners {
+    border-radius: 0 !important;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 0px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+}

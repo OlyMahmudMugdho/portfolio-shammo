@@ -1,0 +1,223 @@
+{
+  "basics": {
+    "name": "MD. Basim Al Zabir Shammo",
+    "label": "Aspiring Researcher in Robotic Systems and Machine Learning Applications",
+    "email": "al.zabir.shammo@gmail.com",
+    "phone": "+8801744540590",
+    "summary": "My research experience includes developing ML-based diagnostic systems across multiple domains. While my primary focus is robotics and autonomous systems, I have also contributed to healthcare ML projects. This cross-domain experience has been invaluable for me. Working with noisy signals taught me feature engineering and classification under uncertainty, which is directly applicable to sensor-based fault detection in robotics, where sensor noise, drift, and failures are constant challenges.",
+    "location": {
+      "city": "Pabna",
+      "region": "Rajshahi",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "md-basimal-zabir-shammo-759082205",
+        "url": "https://www.linkedin.com/in/md-basimal-zabir-shammo-759082205"
+      }
+    ],
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEp44omHBG8uw/profile-displayphoto-shrink_800_800/B56Zuzg7S2IUAg-/0/1768243313323?e=1772668800&v=beta&t=8r6JLHrnk8zKimfREZEWXDW5uV5BhcGTchX5eTIixV8"
+  },
+  "education": [
+    {
+      "institution": "Pabna University of Science and Technology",
+      "area": "Information and Communication Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2022-07",
+      "endDate": "2026-07",
+      "description": "Focus on machine learning, signal processing, and robotics applications",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/16/PUST_Logo.png"
+    },
+    {
+      "institution": "RAJUK Uttara Model College",
+      "area": "Science",
+      "studyType": "Higher Secondary School Certificate",
+      "startDate": "2018",
+      "endDate": "2020",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Morogram_of_RAJUK_Uttara_Model_College.svg"
+    },
+    {
+      "institution": "Rajendrapur Cantonment Public School and College",
+      "area": "Science",
+      "studyType": "Secondary School Certificate",
+      "startDate": "2016",
+      "endDate": "2018",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/bn/8/88/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F_%E0%A6%AA%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A6%BF%E0%A6%95_%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%81%E0%A6%B2_%E0%A6%93_%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals",
+      "releaseDate": "2024",
+      "summary": "Investigated advanced feature engineering and classification techniques to detect stress levels from non-invasive PPG sensor data, achieving high accuracy in real-world signal conditions."
+    },
+    {
+      "name": "Real-Time RFID Authentication and Access Control System with Networked Logging",
+      "releaseDate": "2024",
+      "summary": "Designed and implemented a secure, networked access control system using RFID technology, focusing on low-latency authentication and centralized activity monitoring."
+    },
+    {
+      "name": "Predicting Fear-Related Nightmares in Children Using Traditional Machine Learning Models",
+      "releaseDate": "2024",
+      "summary": "Applied ensemble learning and regression models to identify physiological and behavioral patterns preceding nightmares in pediatric subjects."
+    },
+    {
+      "name": "Machine Learning-Based Prediction of Nightmares in Children: A Pediatric Psychological Integration",
+      "releaseDate": "2024",
+      "summary": "Explored the integration of psychological assessments with sensor-based data to build a holistic predictive framework for childhood sleep disorders."
+    },
+    {
+      "name": "Vehicle Classification and Detection Using YOLOv8: A Study on Highway Traffic Analysis",
+      "releaseDate": "2024",
+      "summary": "Utilized the state-of-the-art YOLOv8 architecture for high-speed vehicle detection and multi-class categorization in complex highway environments."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Stress Detection Using PPG Signals",
+      "description": "Developed a machine learning framework for stress detection using photoplethysmography signals with feature engineering and classification techniques.",
+      "startDate": "2024-01",
+      "endDate": "2024-06",
+      "technologies": ["Python", "Machine Learning", "Signal Processing"],
+      "status": "completed"
+    },
+    {
+      "name": "Vehicle Detection System",
+      "description": "Implemented YOLOv8-based vehicle classification and detection system for highway traffic analysis.",
+      "startDate": "2024-03",
+      "technologies": ["Python", "YOLOv8", "Computer Vision"],
+      "status": "completed"
+    },
+    {
+      "name": "RFID Access Control System",
+      "description": "Built a real-time RFID authentication system with networked logging capabilities.",
+      "startDate": "2024-08",
+      "technologies": ["Embedded Systems", "RFID", "IoT"],
+      "status": "in-progress"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": ["Robotics", "Machine Learning", "Signal Processing", "Python", "Deep Learning", "Computer Vision", "IoT"]
+    },
+    {
+      "name": "Tools & Frameworks",
+      "keywords": ["TensorFlow", "PyTorch", "OpenCV", "ROS", "Arduino", "MATLAB"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Research", "Technical Writing", "Team Collaboration", "Presentation"]
+    }
+  ],
+  "courses": [
+    {
+      "name": "Machine Learning Specialization",
+      "provider": "Coursera",
+      "instructor": "Andrew Ng",
+      "date": "2024"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "provider": "Coursera",
+      "date": "2024"
+    },
+    {
+      "name": "ChatGPT Prompt Engineering for Developers",
+      "provider": "DeepLearning.AI",
+      "date": "2024"
+    },
+    {
+      "name": "Python Programming",
+      "provider": "Certification Authority",
+      "date": "2024"
+    }
+  ],
+  "experience": [
+    {
+      "name": "Pabna University of Science and Technology",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2025-08",
+      "endDate": "",
+      "summary": "Conducting research in machine learning and robotics applications.",
+      "location": "Pabna, Bangladesh"
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "ICE Association",
+      "position": "Research Secretary",
+      "startDate": "2025-09",
+      "endDate": "",
+      "summary": "Leading research initiatives and activities for the association.",
+      "location": "Pabna, Bangladesh"
+    },
+    {
+      "name": "ICE Association",
+      "position": "Club Secretary (English)",
+      "startDate": "2025-01",
+      "endDate": "2025-09",
+      "summary": "Organized and conducted confidence-building sessions to help students overcome fear in English communication.",
+      "location": "Pabna, Bangladesh"
+    },
+    {
+      "name": "Bangladesh Youth Environmental Initiative (BYEI)",
+      "position": "Fellow - Earth Champions Program 2022",
+      "startDate": "2023-01",
+      "endDate": "2023-12",
+      "summary": "Selected as one of 42 fellows nationwide (4.5% acceptance) for this fully funded environmental leadership program. Attended a week-long Earth Camp in Sylhet and completed year-long training on environmental policy and climate action. Gained hands-on experience in environmental projects, policy discussions, and collaborative teamwork. Supported by the U.S. and French Embassies, the program was also featured in national media.",
+      "location": "Bangladesh"
+    }
+  ],
+  "achievements": {
+    "awards": [
+      {
+        "title": "Rajuk Intra Talent Hunt 2018 Champion",
+        "date": "2018",
+        "awarder": "RAJUK"
+      },
+      {
+        "title": "International Mother Language Day Essay Competition 2014",
+        "date": "2014",
+        "awarder": "Competition Authority"
+      },
+      {
+        "title": "Earth Champions Program Fellowship",
+        "date": "2022",
+        "awarder": "Bangladesh Youth Environmental Initiative (BYEI)"
+      },
+      {
+        "title": "Junior School Certificate Scholarship",
+        "awarder": "Education Board"
+      },
+      {
+        "title": "Secondary School Certificate Scholarship",
+        "awarder": "Education Board"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Python",
+        "issuer": "Certification Authority"
+      },
+      {
+        "name": "ChatGPT Prompt Engineering for Developers",
+        "issuer": "DeepLearning.AI"
+      },
+      {
+        "name": "Certificate of Presentation - QPAIN 2025",
+        "issuer": "QPAIN"
+      },
+      {
+        "name": "Deep Learning",
+        "issuer": "Coursera"
+      },
+      {
+        "name": "Machine Learning Specialization",
+        "issuer": "Coursera"
+      }
+    ]
+  }
+}
